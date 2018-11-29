@@ -233,7 +233,6 @@ bot.on('message', (message) =>{
  
 });
 
-bot.login('NTE3MDI5MDU4OTA3OTk2MTYy.Dt8Shg.fBpgsyeaVTPGluIFOHXxxIkD96Q')
  
 
 // THIS  MUST  BE  THIS  WAY
