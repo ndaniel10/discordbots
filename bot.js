@@ -26,4 +26,4 @@ client.on('message', message => {
 
 // THIS  MUST  BE  THIS  WAY
 
-client.login(process.env.NTE3MDI5MDU4OTA3OTk2MTYy.DuH4Dw.9vDYDz7x2AZAWA9OYOholRBfhU8);//where BOT_TOKEN is the token of our bot
+client.login(process.env.BOT_TOKEN);//where BOT_TOKEN is the token of our bot
